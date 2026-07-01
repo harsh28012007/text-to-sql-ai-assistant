@@ -23,7 +23,7 @@ Developed a Text-to-SQL system that allows users to interact with databases usin
 
 
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Category        | Technologies       |
 | --------------- | ------------------ |
@@ -51,15 +51,15 @@ Analytics Dashboard
 
 ##  Business Impact
 
-✔ Eliminates manual SQL writing
+1. Eliminates manual SQL writing
 
-✔ Improves data accessibility
+2. Improves data accessibility
 
-✔ Enables self-service analytics
+3. Enables self-service analytics
 
-✔ Accelerates business decision-making
+4. Accelerates business decision-making
 
-✔ Simplifies database interactions for non-technical users
+5. Simplifies database interactions for non-technical users
 
 
 
